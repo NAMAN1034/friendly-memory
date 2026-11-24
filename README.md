@@ -2,6 +2,3 @@
 
 Active-learning framework for dynamic antigen panel construction in
 multi-objective HIV bNAb design.
-
-Researcher: Naman Pradhan
-Sponsor: Danielle Schroeder
